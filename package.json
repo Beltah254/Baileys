@@ -1,15 +1,15 @@
 {
-  "name": "@whiskeysockets/baileys",
-  "version": "6.6.0",
-  "description": "WhatsApp API",
+  "name": "Flash-Md",
+  "version": "1.0.0",
+  "description": "WhatsApp web Api, created by France King",
   "keywords": [
     "whatsapp",
-    "js-whatsapp",
+    "best npm",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-chat",
-    "whatsapp-group",
-    "automation",
+    "France King",
+    "Flash MD",
     "multi-device"
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys",
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "France King",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
