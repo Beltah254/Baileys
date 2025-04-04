@@ -1,23 +1,23 @@
 {
-  "name": "Flash-Md",
+  "name": "Beltah-Md",
   "version": "1.0.0",
-  "description": "WhatsApp web Api, created by France King",
+  "description": "WhatsApp web Api, created by Beltah Tech 254",
   "keywords": [
     "whatsapp",
     "best npm",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-chat",
-    "France King",
-    "Flash MD",
+    "Beltah Tech",
+    "Beltah MD",
     "multi-device"
   ],
-  "homepage": "https://github.com/franceking1/Baileys",
+  "homepage": "https://github.com/Beltah254/Baileys",
   "repository": {
-    "url": "git@github.com:franceking1/Baileys.git"
+    "url": "git@github.com:Beltah254/Baileys.git"
   },
   "license": "MIT",
-  "author": "France King",
+  "author": "Beltah Tech",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
